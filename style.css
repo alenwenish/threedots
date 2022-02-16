@@ -101,6 +101,7 @@ nav {
 	height: 60vh;
 }
 .cover img {
+	width: 80%;
 	height: 100%;
 	filter: drop-shadow(0px 5px 3px black);
 	animation: drop 1.5s ease;
